@@ -27,6 +27,5 @@ public class Factorial {
 		} else {
 			return n * factorial_recursive(n - 1);
 		}
-		
 	}
 }
